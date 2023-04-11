@@ -1,0 +1,10 @@
+Requirements:
+
+
+RPy2 (http://rpy.sourceforge.net/) can be installed as pip install rpy2
+R 4.2.1 
+Python 3.6
+
+
+
+
